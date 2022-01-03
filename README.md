@@ -1,6 +1,6 @@
 # surfs_up
 
-***INTRODUCTION***
+***OVERVIEW***
 
 ***RESOURCES***
 
