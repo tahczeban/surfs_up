@@ -12,7 +12,7 @@ The purpose of this project was to analyze various weather stations in Oahu, Haw
 6. create graphs and tables utilizing Python
 
 
-temperature and precipitation per weather station observed
+In figure 1, the temperature and precipitation collected via weather station analysis was observed for the overall trends and translated to graphical format for easy interpretation. 
 
 ![temp](https://user-images.githubusercontent.com/90135381/147972203-6f0ab197-865e-4902-b1a4-96f758a6ed62.png)
 
@@ -22,6 +22,7 @@ temperature and precipitation per weather station observed
 Figure 1: Graphs of Temperature and Precipitation trends
 
 ***RESULTS***
+
 *DELIVERABLE 1: Summary Statistics for June
 
 <img width="227" alt="june_temp_df" src="https://user-images.githubusercontent.com/90135381/147968493-6072ea3b-72c7-4189-b545-a502046f43fc.png">
