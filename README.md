@@ -45,6 +45,6 @@ For Deccember, the statistical data showed that the average rainfall was 0.217, 
 <img width="202" alt="dec_precipitation" src="https://user-images.githubusercontent.com/90135381/147968438-0714aad2-361d-433d-a666-06705aa417db.png">
 Figure 5: Stats of December Precipitation
 
-
+In conclusion, it can be ascertained that opening a year-round surf and shake shop at the beach would be a feasible business option. The average temperature variance was negligable (~4 deg) for the 2 most extreme months. Additionally, while the precipitation was more predominant in December, the amount was only by a small margin (~2). 
 
 ***REFERENCES*** BSC, Google, StackOverflow, GitHub
