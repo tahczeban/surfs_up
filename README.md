@@ -41,7 +41,7 @@ Figure 3: Statistical Data of December Temperatures
 <img width="218" alt="june_precipitation" src="https://user-images.githubusercontent.com/90135381/147968470-471cd76a-129d-45a1-bdb4-c90ae4df31d2.png">
 Figure 4: Stats of June Precipitation
 
-For Deccember, the statistical data showed that the average rainfall was 0.217, with the max rainfall being 6.420 (Fig 5).
+For December, the statistical data showed that the average rainfall was 0.217, with the max rainfall being 6.420 (Fig 5).
 
 <img width="202" alt="dec_precipitation" src="https://user-images.githubusercontent.com/90135381/147968438-0714aad2-361d-433d-a666-06705aa417db.png">
 Figure 5: Stats of December Precipitation
