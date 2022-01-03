@@ -3,11 +3,15 @@
 ***RESOURCES*** Jupyter notebook, Python, Flask, Pandas, Numpy, matplotlib, ORM, SQAlchemy, SQlite
 
 ***OVERVIEW***
-The purpose of this analysis was to surf n' shake, investor W.Avy; however, requests weather analytics to ensure feasibility.
-advanced data storage, integrate stas with df, create graphs utilizing Python
-analysis of temperature and precipitation trends in Oahu, Hawaii for June and December as these 2 factors are the biggest contributors to optimal outdoor activities of all types.
-surf and ice cream shop-year round or just seasonal?
-ensure weather conditions are conducive
+The purpose of this project was to analyze various weather stations in Oahu, Hawaii to inquire if it is feasible to open a "surf n' shake" shop year round, as oppposed to seasonally, with investor W.Avy. An indepth analysis of temperature and precipitation trends in Oahu, Hawaii for June and December was completed, as these 2 weather factors are the biggest contributors to optimal outdoor experiences of all types, particularly surfing and beach attendance. In order to accomplish this, the following had to be performed:
+1. analyze advanced data storage with Python and Pandas
+2. filter the date column of the measurements table from hawaii.sqlite db
+3. retrieve temps and precipitation for june and dec
+4. convert to a list and create a dataframe 
+5. integrate the statistics with the dataframe 
+6. create graphs and tables utilizing Python
+
+
 temperature and precipitation per weather station observed
 
 ![temp](https://user-images.githubusercontent.com/90135381/147972203-6f0ab197-865e-4902-b1a4-96f758a6ed62.png)
