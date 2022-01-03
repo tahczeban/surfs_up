@@ -1,8 +1,10 @@
 # surfs_up
 
+***RESOURCES*** Jupyter notebook, Python, Flask, Pandas, Numpy, ORMSQAlchemy, SQlite
+
 ***OVERVIEW***
 
-***RESOURCES***
+
 
 ***RESULTS***
 
