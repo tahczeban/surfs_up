@@ -23,12 +23,12 @@ Figure 1: Graphs of Temperature and Precipitation trends
 
 ***RESULTS***
 
-*DELIVERABLE 1: Summary Statistics for June
+DELIVERABLE 1: Summary Statistics for June Temp was performed for comparison. The average temperature for June was 75, the minimum temp was 64 and the max temp was 85.
 
 <img width="227" alt="june_temp_df" src="https://user-images.githubusercontent.com/90135381/147968493-6072ea3b-72c7-4189-b545-a502046f43fc.png">
 Figure 2: Statistical Data of June Temperatures
 
-*DELIVERABLE 2: Summary Statistics for December
+DELIVERABLE 2: Summary Statistics for December Temp was performed for comparison.The average temperature for December was 71, the min temp was 56 and the max temp was 83.
 
 <img width="186" alt="dec_temp_df" src="https://user-images.githubusercontent.com/90135381/147968505-2d54ab62-63f3-4b9c-9ca6-68f0d7b15630.png">
 Figure 3: Statistical Data of December Temperatures
