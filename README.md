@@ -3,7 +3,7 @@
 ***RESOURCES*** Jupyter notebook, Python, Flask, Pandas, Numpy, matplotlib, ORM, SQAlchemy, SQlite
 
 ***OVERVIEW***
-The purpose of this project was to analyze various weather stations in Oahu, Hawaii to inquire if it is feasible to open a "surf n' shake" shop year round, as oppposed to seasonally, with investor W.Avy. An indepth analysis of temperature and precipitation trends in Oahu, Hawaii for June and December was completed, as these 2 weather factors are the biggest contributors to optimal outdoor experiences of all types, particularly surfing and beach attendance. In order to accomplish this, the following had to be performed:
+The purpose of this project was to analyze various weather stations in Oahu, Hawaii to inquire if it is feasible to open a "surf 'n shake" shop year round, as oppposed to seasonally, with investor W.Avy. An indepth analysis of temperature and precipitation trends in Oahu, Hawaii for June and December was completed, as these 2 weather factors are the biggest contributors to optimal outdoor experiences of all types, particularly surfing and beach attendance. In order to accomplish this, the following had to be performed:
 1. analyze advanced data storage with Python and Pandas
 2. filter the date column of the measurements table from hawaii.sqlite db
 3. retrieve temps and precipitation for june and dec
@@ -45,6 +45,6 @@ For Deccember, the statistical data showed that the average rainfall was 0.217, 
 <img width="202" alt="dec_precipitation" src="https://user-images.githubusercontent.com/90135381/147968438-0714aad2-361d-433d-a666-06705aa417db.png">
 Figure 5: Stats of December Precipitation
 
-In conclusion, it can be ascertained that opening a year-round surf and shake shop at the beach would be a feasible business option. The average temperature variance was negligable (~4 deg) for the 2 most extreme months. Additionally, while the precipitation was more predominant in December, the amount was only by a small margin (~2). 
+In conclusion, it can be ascertained that opening a year-round surf and shake shop at the beach would be a feasible business option. The average temperature variance was negligable (~4 deg) for the 2 most extreme months. Additionally, while the precipitation was more predominant in December, the amount was only by a small margin (~2); thus, making Oahu, Hawaii an optimal location for the "surf 'n shake" shop. 
 
 ***REFERENCES*** BSC, Google, StackOverflow, GitHub
