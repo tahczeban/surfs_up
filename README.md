@@ -23,12 +23,12 @@ Figure 1: Graphs of Temperature and Precipitation trends
 
 ***RESULTS***
 
-DELIVERABLE 1: Summary Statistics for June Temp was performed for comparison. The average temperature for June was 75, the minimum temp was 64 and the max temp was 85.
+DELIVERABLE 1: Summary Statistics for June Temp was performed for comparison. The average temperature for June was 75, the minimum temp was 64 and the max temp was 85 (Fig 2).
 
 <img width="227" alt="june_temp_df" src="https://user-images.githubusercontent.com/90135381/147968493-6072ea3b-72c7-4189-b545-a502046f43fc.png">
 Figure 2: Statistical Data of June Temperatures
 
-DELIVERABLE 2: Summary Statistics for December Temp was performed for comparison.The average temperature for December was 71, the min temp was 56 and the max temp was 83.
+DELIVERABLE 2: Summary Statistics for December Temp was performed for comparison.The average temperature for December was 71, the min temp was 56 and the max temp was 83 (Fig 3).
 
 <img width="186" alt="dec_temp_df" src="https://user-images.githubusercontent.com/90135381/147968505-2d54ab62-63f3-4b9c-9ca6-68f0d7b15630.png">
 Figure 3: Statistical Data of December Temperatures
@@ -36,11 +36,12 @@ Figure 3: Statistical Data of December Temperatures
 
 ***SUMMARY***
 
-*DELIVERABLE 3: Additional Inquiry for Precipitation and Summary
+*DELIVERABLE 3: An additional inquiry for Precipitation was performed, as the amount of rain for those two seasons would also likely be directly proportional to shop and beach attendance; hence, success. Junes precipitation average was 0.136, with max being 4.430 (Fig4).
 
 <img width="218" alt="june_precipitation" src="https://user-images.githubusercontent.com/90135381/147968470-471cd76a-129d-45a1-bdb4-c90ae4df31d2.png">
 Figure 4: Stats of June Precipitation
 
+For Deccember, the statistical data showed that the average rainfall was 0.217, with the max rainfall being 6.420 (Fig 5).
 <img width="202" alt="dec_precipitation" src="https://user-images.githubusercontent.com/90135381/147968438-0714aad2-361d-433d-a666-06705aa417db.png">
 Figure 5: Stats of December Precipitation
 
