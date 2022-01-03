@@ -1,8 +1,11 @@
 # surfs_up
 
-***RESOURCES*** Jupyter notebook, Python, Flask, Pandas, Numpy, ORMSQAlchemy, SQlite
+***RESOURCES*** Jupyter notebook, Python, Flask, Pandas, Numpy, ORM, SQAlchemy, SQlite
 
 ***OVERVIEW***
+
+analysis of temperature and precipitation trends in Oahu, Hawaii for June and December.
+surf and ice cream shop-year round or just seasonal?
 
 ![precip-by-date](https://user-images.githubusercontent.com/90135381/147970011-76bc208e-2d44-4349-a53c-7095e0461e35.png)
 
